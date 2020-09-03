@@ -13,6 +13,8 @@
   "author": "CementedWall101",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.2.0",
+    "fs-extra": "^9.0.1",
+    "node-fetch": "^2.6.0"
   }
 }
